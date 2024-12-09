@@ -512,15 +512,6 @@ private static final int Nb = 4; // Number of columns (32-bit words) comprising 
         message1.setText("");
     }
 
-    private void javaSwingTest(){
-
-
-    }
-
-    private void AES(){
-        javaSwingTest();
-    }
-
 
     public static void main(String args[]) {
 
