@@ -1,4 +1,4 @@
-//package ecryptiondecryption;
+package ecryptiondecryption;
 
 import java.awt.Frame;
 import java.awt.Toolkit;
